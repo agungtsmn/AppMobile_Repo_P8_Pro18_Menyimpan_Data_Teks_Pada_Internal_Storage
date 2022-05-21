@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">P8Pro18</string>
+    <string name="button">Go to Second Activity</string>
+    <string name="button2">Go to Main Activity</string>
+    <string name="input_text">Input Text</string>
+</resources>
